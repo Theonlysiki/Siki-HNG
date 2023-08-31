@@ -47,7 +47,7 @@ function getCurrentUTCTime() {
             current_day_of_the_week: day,
             current_utc_time: utcTime,
             track: chosenTrack,
-            Github_Url: "https://github.com/Tad-z",
+            Github_Url: "https://github.com/Theonlysiki/Siki-HNG.git",
             full_source_code: 'code'
         };
 
